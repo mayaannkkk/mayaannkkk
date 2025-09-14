@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi 👋, I'm Mayank Goyal<br>Aspiring Software Developer | Passionate about building efficient systems | Exploring Open Source | 💻<br><br>🌱 I’m currently learning DSA in C/C++ and python<br><br>💬 Ask me about C/C++
+<br>Hi 👋, I'm Mayank Goyal<br>Aspiring Software Developer | Passionate about building efficient systems | Exploring Open Source | 💻<br><br>💬 Ask me about C/C++
 
 
 ## 🌐 Socials:
